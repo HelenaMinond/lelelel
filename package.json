@@ -26,18 +26,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.8.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gonzafg2/Template-Proyectos-No-VueJS.git"
-  },
-  "keywords": [
-    "babel",
-    "webpack"
-  ],
-  "bugs": {
-    "url": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS/issues"
-  },
-  "homepage": "https://github.com/gonzafg2/Template-Proyectos-No-VueJS#readme"
+    "@babel/polyfill": "^7.8.7",
+    "regenerator-runtime": "^0.13.7"
+  }
 }
