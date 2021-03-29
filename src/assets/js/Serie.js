@@ -12,7 +12,7 @@ class Serie {
     const e = especie;
     const contenido = document.getElementById('contenido');
     contenido.innerHTML += `
-    <div class="row justify-content-center mb-4">
+    <div class="row justify-content-center pb-4">
       <div class="col-3">
         <div class="card">
           <img src="${i}" class="card-img-top" alt="...">
